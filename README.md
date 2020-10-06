@@ -1,0 +1,4 @@
+# Youtube-Trending-DataAnalysis
+YouTube is the most used and most popular video platform in the world today. A list of trending videos is updated in YouTube constantly. For this project, a dataset with data about trending videos collected for about 205days over five different countries USA, Great Britain, Germany, Canada and France is taken for analysis.  
+This project deals with designing and implementing a database software system to analyze the data of more than 40,000 trending videos over different countries. 
+This project is aimed to provide an understanding to people or channels to increase popularity of their videos or channels and to identify the contribution and pattern by statistically analyzing different demographic factors like region, time of upload, trends, category of the video etc., 
